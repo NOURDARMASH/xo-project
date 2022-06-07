@@ -48,4 +48,5 @@ function game(id) {
         turn = 'x';
         title.innerHTML = 'x';
     }
+    winner();
 }
